@@ -1,0 +1,2 @@
+# Gunburn
+ The more you shoot... the closer you are to death.  In Gunburn, every shot matters — but not in the way you’d expect. Your weapon is both a blessing and a curse: the more you fire, the hotter it gets, and if you push it too far… BOOM. You go down in flames.  Get ready for escalating chaos: with each new stage, enemies double in numbers, intensity, and bloodlust. Test your reflexes, your nerve under pressure, and your instinct to survive in a battlefield where the trigger could be your downfall.
