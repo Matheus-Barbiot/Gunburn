@@ -1,0 +1,15 @@
+Gunburn - relatório de feddback:
+Visual é ponto mais forte do jogo, portanto, não precisa ser mudado, apenas melhorado. 
+A jogabilidade é descente, tem bastante espaço para melhora aqui. Como:
+   - Modo de mira ao apertar botão direito do mouse.
+   - Avanço se jogando no chão.
+   - Recarregamento na arma.
+
+Pontos fracos ou a serem melhorados:
+   1. Mais variações de armas, inimigos e na gameplay em sí
+   2. Música autoral, não feita por IA
+   3. Resolução da tela 
+   4. Tela de opções
+   5. Colocar limite nos power ups
+
+
